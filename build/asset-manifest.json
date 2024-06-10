@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5d57708e.css",
+    "main.js": "/static/js/main.d3ba5758.js",
+    "static/media/maintaskimg.jpeg": "/static/media/maintaskimg.40e2877ce050bfb6b35e.jpeg",
+    "static/media/nurcery.png": "/static/media/nurcery.c42aec174c1830fd4b63.png",
+    "static/media/car.jpg": "/static/media/car.d4d2723a19a39d1ffdaf.jpg",
+    "static/media/nonfree.jfif": "/static/media/nonfree.150b007574a8f2af4e3b.jfif",
+    "static/media/regalia-two.png": "/static/media/regalia-two.a1b63475d2b5b4871d86.png",
+    "static/media/sky.jpg": "/static/media/sky.7b1c52c5c30e02279f2c.jpg",
+    "static/media/logo.svg": "/static/media/logo.d842d98cef859d766f95.svg",
+    "static/media/Vyazovaya.jpg": "/static/media/Vyazovaya.7c75ae4732631abd5d6f.jpg",
+    "static/media/accessibility_new.svg": "/static/media/accessibility_new.38d2601280a99b05d839.svg",
+    "index.html": "/index.html",
+    "main.5d57708e.css.map": "/static/css/main.5d57708e.css.map",
+    "main.d3ba5758.js.map": "/static/js/main.d3ba5758.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d57708e.css",
+    "static/js/main.d3ba5758.js"
+  ]
+}
